@@ -1,0 +1,11 @@
+About Dataset
+A comprehensive, multi-source grocery price dataset tracking 14 food staples across 122 cities in 80 countries, with a 6-month time series (October 2025 – March 2026). Each row represents the price of a single grocery item in a specific city and month, normalized to USD for cross-country comparison.
+
+Why does this matter in 2026?
+The FAO Food Price Index hit 125.3 in February 2026 — the first rise after five consecutive monthly drops — driven by surging cereal, meat, and vegetable oil prices. The USDA projects all U.S. food prices will climb 3.1% this year, with beef up 5.5% and sugar up 6.7%. Meanwhile, MENA food inflation runs at 8.9% and Sub-Saharan Africa at 11.2%. This dataset puts hard numbers behind those headlines at the city level.
+
+Items Tracked (14)
+Milk (1L), Fresh White Bread (500g), White Rice (1kg), Eggs (12), Local Cheese (1kg), Chicken Fillets (1kg), Beef Round (1kg), Apples (1kg), Bananas (1kg), Oranges (1kg), Tomatoes (1kg), Potatoes (1kg), Onions (1kg), Lettuce (1 head).
+
+Data Collection Date
+March 20, 2026
