@@ -7,5 +7,7 @@ The FAO Food Price Index hit 125.3 in February 2026 — the first rise after fiv
 Items Tracked (14)
 Milk (1L), Fresh White Bread (500g), White Rice (1kg), Eggs (12), Local Cheese (1kg), Chicken Fillets (1kg), Beef Round (1kg), Apples (1kg), Bananas (1kg), Oranges (1kg), Tomatoes (1kg), Potatoes (1kg), Onions (1kg), Lettuce (1 head).
 
+Includes Breakfast Basket total (Milk + Bread + Eggs + Rice) per city.
+
 Data Collection Date
 March 20, 2026
