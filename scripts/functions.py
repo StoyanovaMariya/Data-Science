@@ -53,13 +53,18 @@ def correlation_and_p_value(data, continents, oil):
     - continents - a list of the continents columns
     - oil - the oil column
 
-  The result is two scatter plots.
+  The result is printed and visualized by two scatter plots.
   """
 
   # calculate pearson correlation and p-value
   res = calculate_corr_and_pvalue(data, continents, oil)
 
-  # plot results
-  plot_correlation_and_pvalue(res)
+  # print "{0:0.2f}".format(round(x, 2))
+  # {0.2f} will format a float to 2 decimal places.
+  #round(x, 2) will round up to 2 decimal places.
+  # print the results
+  for sublist in res:
+    print(f"{sublist[0]}: correlation coefficient = {sublist[1]:.2f}, p-value = {sublist[2]:.2f}")
 
-  return res
+  # plot the results
+  plot_correlation_and_pvalue(res)
