@@ -7,6 +7,7 @@ This study analyses the impact of US oil price on the grocery breakfast basket p
   2. What is the lagging effect in short term?
 
   3. Does the grocery basket increase/decrease with the similar percentage with US oil fund?
+     
 
 ## Features
 
@@ -16,9 +17,9 @@ This study analyses the impact of US oil price on the grocery breakfast basket p
 
   3. Statistics implementation:
 
-    - scipy.stats.kstest for performing Kolmogorov-Smirnov test for goodness of fit
+     - scipy.stats.kstest for performing Kolmogorov-Smirnov test for goodness of fit
     
-    - scipy.stats.pearsonr for running Pearson correlation to measure the linear relationship between two datasets
+     - scipy.stats.pearsonr for running Pearson correlation to measure the linear relationship between two datasets
 
   4. Visualisatios:
 
@@ -30,6 +31,7 @@ This study analyses the impact of US oil price on the grocery breakfast basket p
 
   6. Python package and modules to organize the code
      
+
 
 ## Quick Start
 
